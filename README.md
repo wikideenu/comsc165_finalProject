@@ -10,5 +10,5 @@ Description:
 Managers have the ability to edit topping options available on the menu. Customers have the option to create, edit, delete, and purchase orders.
 
 Getting Started:
-  Download project repo into local directory
-  open Makefile.mak
+  Option 1. Download project repo into local directory, open Makefile.mak
+  Option 2. Download PizzaOrder.cpp, create new project in visual studio, add PizzaOrder.cpp to project and run.
